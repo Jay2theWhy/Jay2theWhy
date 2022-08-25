@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Jing Yang Fan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jay2theWhy)](https://github.com/Jay2theWhy/github-readme-stats)
+
 <!--
 **Jay2theWhy/Jay2theWhy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
