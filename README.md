@@ -1,8 +1,11 @@
 <h1>
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
-  Hi there, thanks for stopping by!
+  Hi there, I'm Jing Yang Fan, thanks for stopping by
 </h1>
 
+<p>
+  I'm a data scientist turned software developer based in Toronto, Canada. I consider myself to be a life-long learner who loves tinkering with new technologies and turning ideas into reality. Hoping to make big splashes in my future!
+</p>
 
 
 ### 🔨 Languages and Tools:
@@ -16,15 +19,6 @@
 <br>
 
 ### 📊 Github Stats
-<!-- <a href='https://github.com/jay2thewhy/github-stats-transparent'> -->
-  
+
 ![Stats Overview](https://raw.githubusercontent.com/jay2thewhy/github-stats-transparent/output/generated/overview.svg)
 ![Most Used Languages](https://raw.githubusercontent.com/jay2thewhy/github-stats-transparent/output/generated/languages.svg)
-
-<!-- </a> -->
-
-<!-- ### Hi there 👋
-
-[![Jing Yang Fan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jay2theWhy)](https://github.com/Jay2theWhy/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jay2theWhy&hide=jupyter%20notebook&layout=compact)](https://github.com/Jay2theWhy/github-readme-stats) -->
