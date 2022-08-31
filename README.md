@@ -18,8 +18,8 @@
 ### 📊 Github Stats
 <a href='https://github.com/jay2thewhy/github-stats-transparent'>
   
-![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
+![](https://raw.githubusercontent.com/Jay2theWhy/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Jay2theWhy/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
 ![Stats Overview](https://raw.githubusercontent.com/jay2thewhy/github-stats-transparent/output/generated/overview.svg)
 ![Most Used Languages](https://raw.githubusercontent.com/jay2thewhy/github-stats-transparent/output/generated/languages.svg)
