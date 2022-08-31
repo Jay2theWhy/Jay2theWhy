@@ -3,6 +3,12 @@
   Hi there, I'm Jing Yang Fan, thanks for stopping by
 </h1>
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/jingyangfan)
+<!-- [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)]() -->
+<!-- [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)]() -->
+<!-- [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)]() -->
+<!-- [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)]() -->
+
 <p>
   I'm a data scientist turned software developer based in Toronto, Canada. I consider myself to be a life-long learner who loves tinkering with new technologies and turning ideas into reality. Hoping to make big splashes in my future!
 </p>
