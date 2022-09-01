@@ -44,3 +44,13 @@
 
 ![Stats Overview](https://raw.githubusercontent.com/jay2thewhy/github-stats-transparent/output/generated/overview.svg)
 ![Most Used Languages](https://raw.githubusercontent.com/jay2thewhy/github-stats-transparent/output/generated/languages.svg)
+
+### What I'm listening to
+
+<p align="center">
+  <a href="https://readme-spotify-jay2thewhy.vercel.app/now-playing?open">
+    <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
+    <img src="https://readme-spotify-jay2thewhy.vercel.app/now-playing">
+  </a>
+</p>
+
