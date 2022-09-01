@@ -54,3 +54,7 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://readme-spotify-jay2thewhy.vercel.app/top-played">
+</p>
+
