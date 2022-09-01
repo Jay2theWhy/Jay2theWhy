@@ -1,6 +1,6 @@
 <h1>
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
-  Hi there, I'm Jing Yang Fan
+  hi there, I'm Jing Yang Fan
 </h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/jingyangfan)
@@ -13,7 +13,7 @@
   I'm a data scientist turned software developer based in Toronto, Canada. I consider myself to be a life-long learner who loves tinkering with new technologies and turning ideas into reality. Hoping to make big splashes in my future!
 </p>
 
-<h3> 🔨 Languages and Tools</h3>
+<h3> 🔨 languages and tools</h3>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-4B8BBE?style=flat-square&logo=python&logoColor=white" />
   <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FFA800?style=flat-square&logo=tensorflow&logoColor=white" />
@@ -40,12 +40,12 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 
-### 📊 Github Stats
+### 📊 github stats
 
 ![Stats Overview](https://raw.githubusercontent.com/jay2thewhy/github-stats-transparent/output/generated/overview.svg)
 ![Most Used Languages](https://raw.githubusercontent.com/jay2thewhy/github-stats-transparent/output/generated/languages.svg)
 
-### 🎶 What I'm listening to
+### 🎶 what i'm listening to
 
 <p align="center">
   <a href="https://readme-spotify-jay2thewhy.vercel.app/now-playing?open">
