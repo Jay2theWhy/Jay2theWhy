@@ -13,7 +13,7 @@
   I'm a data scientist turned software developer based in Toronto, Canada. I consider myself to be a life-long learner who loves tinkering with new technologies and turning ideas into reality. Hoping to make big splashes in my future!
 </p>
 
-<h3>🔨 Languages and Tools</h3>
+<h3> 🔨 Languages and Tools</h3>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-4B8BBE?style=flat-square&logo=python&logoColor=white" />
   <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FFA800?style=flat-square&logo=tensorflow&logoColor=white" />
@@ -45,7 +45,7 @@
 ![Stats Overview](https://raw.githubusercontent.com/jay2thewhy/github-stats-transparent/output/generated/overview.svg)
 ![Most Used Languages](https://raw.githubusercontent.com/jay2thewhy/github-stats-transparent/output/generated/languages.svg)
 
-### What I'm listening to
+### 🎶 What I'm listening to
 
 <p align="center">
   <a href="https://readme-spotify-jay2thewhy.vercel.app/now-playing?open">
