@@ -58,3 +58,6 @@
   <img src="https://readme-spotify-jay2thewhy.vercel.app/top-played">
 </p>
 
+<p align="center">
+  <i>source: <a href="https://github.com/andyruwruw/andyruwruw">andyruwruw</a></i>
+</p>
