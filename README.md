@@ -1,6 +1,6 @@
 <h1>
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
-  Hi There, I'm Jing Yang Fan
+  Hi There, I'm Jay Fan
 </h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/jingyangfan)
@@ -10,7 +10,6 @@
 <!-- [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)]() -->
 
 <p>
-  I'm a data scientist turned software developer based in Toronto, Canada. I consider myself to be a life-long learner who loves tinkering with new technologies and turning ideas into reality. Hoping to make big splashes in my future!
 </p>
 
 <h3> 🔨 languages and tools</h3>
